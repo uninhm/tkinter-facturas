@@ -1,10 +1,3 @@
-# decompyle3 version 3.3.2
-# Python bytecode 3.8 (3413)
-# Decompiled from: Python 3.8.6 (default, Dec 13 2020, 20:23:23) 
-# [GCC 9.3.0]
-# Embedded file name: /home/unai/Documentos/Codigos/Python/Tkinter/Programas Stock/productos.py
-# Compiled at: 2019-11-24 22:56:28
-# Size of source mod 2**32: 7619 bytes
 import tkinter as tk
 import tkinter.ttk as ttk
 import tkinter.messagebox as msgbox
